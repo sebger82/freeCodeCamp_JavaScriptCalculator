@@ -21,3 +21,6 @@ form {
 .grey {
     background-color: gainsboro;
 }
+h2, p {
+    color: white;
+}
