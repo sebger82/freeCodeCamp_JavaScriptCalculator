@@ -1,0 +1,23 @@
+.container-fluid {
+    background-color: black;
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+button {
+    min-width: 6rem;
+    margin: 1rem 0.3rem;
+    
+}
+form {
+   margin: 1rem 0.6rem;
+}
+.calculator {
+    display: flex;
+    flex-direction: column;
+}
+.grey {
+    background-color: gainsboro;
+}
